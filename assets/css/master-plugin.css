@@ -1,21 +1,21 @@
 /* Master Plugin – Frontend Styles */
 
 .master-plugin-greeting {
-    font-size: 1.2em;
-    font-weight: 600;
-    margin: 1em 0;
+  font-size: 1.2em;
+  font-weight: 600;
+  margin: 1em 0;
 }
 
 .master-plugin-footer-greeting {
-    text-align: center;
-    padding: 10px;
-    background-color: #f1f1f1;
-    font-size: 0.9em;
-    color: #555;
-    border-top: 1px solid #ddd;
+  text-align: center;
+  padding: 10px;
+  background-color: #f1f1f1;
+  font-size: 0.9em;
+  color: #555;
+  border-top: 1px solid #ddd;
 }
 
 .master-plugin-widget-message {
-    font-style: italic;
-    color: #333;
+  font-style: italic;
+  color: #333;
 }
